@@ -1,0 +1,1550 @@
+[
+{
+  "name":"cljfx.component.Component",
+  "allPublicMethods":true
+},
+{
+  "name":"cljfx.composite$advance_composite_component",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.composite$create_composite_component",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.composite$create_props",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.composite$delete_composite_component",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.composite$desc__GT_props_desc",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.composite$describe",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.composite$eval146",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.composite$eval148",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.composite$eval152",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.composite$eval205",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.composite$eval207",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.composite$eval210",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.composite$eval212",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.composite$eval215",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.composite$eval217",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.composite$eval220",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.composite$eval222",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.composite$eval235",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.composite$eval237",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.composite$eval250",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.composite$eval252",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.composite$lifecycle",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.composite$observable_list",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.composite$observable_map",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.composite$property_change_listener",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.composite$props",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.composite$setter",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.control$eval1172",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.control$eval1174",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.control$eval1178",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.control$eval1182",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.control$set_context_menu__1186",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.control$set_tooltip__1190",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.label$eval1156",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.label$eval1158",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.label$eval1162",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.label$eval1254",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.label$eval1258",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.label$fn__1271",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.label$get_style_class__1261",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.label$set_accessible_role__1265",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.label$set_label_for__1269",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.labeled$eval1164",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.labeled$eval1166",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.labeled$eval1170",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.labeled$eval1192",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.labeled$eval1196",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.labeled$set_alignment__1200",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.labeled$set_content_display__1204",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.labeled$set_ellipsis_string__1208",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.labeled$set_font__1212",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.labeled$set_graphic__1216",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.labeled$set_graphic_text_gap__1220",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.labeled$set_line_spacing__1224",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.labeled$set_mnemonic_parsing__1228",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.labeled$set_text__1232",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.labeled$set_text_alignment__1236",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.labeled$set_text_fill__1240",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.labeled$set_text_overrun__1244",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.labeled$set_underline__1248",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.labeled$set_wrap_text__1252",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$eval702",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$eval704",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$eval708",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$eval724",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$eval728",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$fn__786",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$fn__788",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$fn__790",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$fn__792",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$focused_property__855",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$get_style_class__1018",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$get_transforms__1021",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_accessible_help__740",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_accessible_role__748",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_accessible_role_description__744",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_blend_mode__752",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_cache__760",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_cache_hint__756",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_clip__764",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_cursor__768",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_depth_test__772",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_disable__776",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_effect__780",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_event_dispatcher__784",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_focus_traversable__796",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_id__800",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_input_method_requests__804",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_layout_x__808",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_layout_y__812",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_managed__816",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_mouse_transparent__820",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_node_orientation__824",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_context_menu_requested__828",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_drag_detected__832",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_drag_done__836",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_drag_dropped__840",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_drag_entered__844",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_drag_exited__848",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_drag_over__852",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_input_method_text_changed__859",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_key_pressed__863",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_key_released__867",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_key_typed__871",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_mouse_clicked__875",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_mouse_drag_entered__879",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_mouse_drag_exited__883",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_mouse_drag_over__887",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_mouse_drag_released__891",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_mouse_dragged__895",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_mouse_entered__899",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_mouse_exited__903",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_mouse_moved__907",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_mouse_pressed__911",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_mouse_released__915",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_rotate__919",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_rotation_finished__923",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_rotation_started__927",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_scroll__931",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_scroll_finished__935",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_scroll_started__939",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_swipe_down__943",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_swipe_left__947",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_swipe_right__951",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_swipe_up__955",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_touch_moved__959",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_touch_pressed__963",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_touch_released__967",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_touch_stationary__971",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_zoom__975",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_zoom_finished__979",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_on_zoom_started__983",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_opacity__987",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_pick_on_bounds__991",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_rotate__995",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_rotation_axis__999",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_scale_x__1003",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_scale_y__1007",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_scale_z__1011",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_style__1015",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_translate_x__1025",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_translate_y__1029",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_translate_z__1033",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.node$set_visible__1037",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.pane$eval1120",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.pane$eval1124",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.pane$eval680",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.pane$eval682",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.pane$eval686",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.pane$fn__1129",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.pane$get_children__1127",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.parent$eval1039",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.parent$eval1043",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.parent$eval696",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.parent$eval700",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.parent$get_stylesheets__1046",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.region$eval1048",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.region$eval1052",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.region$eval688",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.region$eval690",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.region$eval694",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.region$fn__1118",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.region$set_background__1060",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.region$set_border__1064",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.region$set_cache_shape__1068",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.region$set_center_shape__1072",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.region$set_max_height__1076",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.region$set_max_width__1080",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.region$set_min_height__1084",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.region$set_min_width__1088",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.region$set_opaque_insets__1092",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.region$set_padding__1096",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.region$set_pick_on_bounds__1056",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.region$set_pref_height__1100",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.region$set_pref_width__1104",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.region$set_scale_shape__1108",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.region$set_shape__1112",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.region$set_snap_to_pixel__1116",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$accelerators",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$eval458",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$eval460",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$eval464",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$eval468",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$fn__668",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$get_accelerators__474",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$get_stylesheets__657",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_camera__478",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_cursor__482",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_event_dispatcher__486",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_fill__490",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_node_orientation__494",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_context_menu_requested__498",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_drag_detected__502",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_drag_done__506",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_drag_dropped__510",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_drag_entered__514",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_drag_exited__518",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_drag_over__522",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_input_method_text_changed__526",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_key_pressed__530",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_key_released__534",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_key_typed__538",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_mouse_clicked__542",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_mouse_drag_entered__546",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_mouse_drag_exited__550",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_mouse_drag_over__554",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_mouse_drag_released__558",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_mouse_dragged__562",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_mouse_entered__566",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_mouse_exited__570",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_mouse_moved__574",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_mouse_pressed__578",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_mouse_released__582",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_rotate__586",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_rotation_finished__590",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_rotation_started__594",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_scroll__598",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_scroll_finished__602",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_scroll_started__606",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_swipe_down__610",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_swipe_left__614",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_swipe_right__618",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_swipe_up__622",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_touch_moved__626",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_touch_pressed__630",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_touch_released__634",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_touch_stationary__638",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_zoom__642",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_zoom_finished__646",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_on_zoom_started__650",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_root__654",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_user_agent_stylesheet__661",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.scene$set_user_data__665",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.stage$eval138",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.stage$eval140",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.stage$eval144",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.stage$eval254",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.stage$eval371",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.stage$eval375",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.stage$fn__409",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.stage$fn__431",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.stage$fn__433",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.stage$fn__447",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.stage$fn__449",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.stage$fn__452",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.stage$fn__454",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.stage$get_icons__407",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.stage$set_always_on_top__388",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.stage$set_full_screen__392",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.stage$set_full_screen_exit_hint__396",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.stage$set_full_screen_exit_key_combination__400",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.stage$set_iconified__404",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.stage$set_max_height__413",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.stage$set_max_width__417",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.stage$set_maximized__421",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.stage$set_min_height__425",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.stage$set_min_width__429",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.stage$set_resizable__437",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.stage$set_scene__441",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.stage$set_title__445",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.v_box$eval1131",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.v_box$eval1135",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.v_box$eval672",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.v_box$eval674",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.v_box$eval678",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.v_box$fn__1152",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.v_box$get_children__1138",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.v_box$set_alignment__1142",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.v_box$set_fill_width__1146",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.v_box$set_spacing__1150",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.window$eval256",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.window$eval258",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.window$eval262",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.window$eval286",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.window$eval290",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.window$fn__304",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.window$fn__306",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.window$fn__308",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.window$fn__310",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.window$focused_property__317",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.window$height_property__360",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.window$set_event_dispatcher__302",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.window$set_height__314",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.window$set_on_close_request__321",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.window$set_on_hidden__325",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.window$set_on_hiding__329",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.window$set_on_showing__333",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.window$set_on_shown__337",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.window$set_opacity__341",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.window$set_user_data__345",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.window$set_width__349",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.window$set_x__353",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.window$set_y__357",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.window$width_property__363",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.window$x_property__366",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.fx.window$y_property__369",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.jdk.fx.node$eval710",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.jdk.fx.node$eval714",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.jdk.fx.node$eval718",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.jdk.fx.node$set_view_order__722",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.jdk.fx.window$eval264",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.jdk.fx.window$eval268",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.jdk.fx.window$eval272",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.jdk.fx.window$set_force_integer_render_scale__276",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.jdk.fx.window$set_render_scale_x__280",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.jdk.fx.window$set_render_scale_y__284",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"cljfx.lifecycle.Lifecycle",
+  "allPublicMethods":true
+},
+{
+  "name":"cljfx_graalvm.core__init"
+},
+{
+  "name":"clojure.core$eval1",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core$eval1154",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core$eval136",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core$eval456",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core$eval670",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core.server__init"
+},
+{
+  "name":"clojure.core.specs.alpha$eval132",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core.specs.alpha$eval134",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core.specs.alpha$eval3",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core.specs.alpha$eval5",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core.specs.alpha$eval9",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core.specs.alpha$even_number_of_forms_QMARK_",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core.specs.alpha$fn__102",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core.specs.alpha$fn__104",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core.specs.alpha$fn__107",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core.specs.alpha$fn__110",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core.specs.alpha$fn__112",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core.specs.alpha$fn__115",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core.specs.alpha$fn__117",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core.specs.alpha$fn__119",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core.specs.alpha$fn__14",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core.specs.alpha$fn__17",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core.specs.alpha$fn__20",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core.specs.alpha$fn__23",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core.specs.alpha$fn__26",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core.specs.alpha$fn__28",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core.specs.alpha$fn__31",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core.specs.alpha$fn__33",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core.specs.alpha$fn__36",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core.specs.alpha$fn__39",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core.specs.alpha$fn__42",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core.specs.alpha$fn__46",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core.specs.alpha$fn__49",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core.specs.alpha$fn__52",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core.specs.alpha$fn__54",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core.specs.alpha$fn__56",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core.specs.alpha$fn__69",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core.specs.alpha$fn__71",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core.specs.alpha$fn__83",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core.specs.alpha$fn__96",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core.specs.alpha$fn__99",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core.specs.alpha$quotable",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"clojure.core__init"
+},
+{
+  "name":"clojure.lang.Compiler",
+  "allPublicFields":true
+},
+{
+  "name":"clojure.lang.IChunk",
+  "allPublicMethods":true
+},
+{
+  "name":"clojure.lang.ISeq"
+},
+{
+  "name":"clojure.lang.LockingTransaction",
+  "allPublicMethods":true
+},
+{
+  "name":"clojure.lang.Namespace",
+  "allPublicMethods":true
+},
+{
+  "name":"clojure.lang.Numbers",
+  "allPublicMethods":true
+},
+{
+  "name":"clojure.lang.RT",
+  "allPublicMethods":true
+},
+{
+  "name":"clojure.lang.Symbol",
+  "allPublicMethods":true
+},
+{
+  "name":"clojure.lang.Var",
+  "allPublicMethods":true
+},
+{
+  "name":"clojure.spec.alpha__init"
+},
+{
+  "name":"java.lang.Class",
+  "allPublicMethods":true
+},
+{
+  "name":"java.lang.Double",
+  "allPublicFields":true
+},
+{
+  "name":"java.lang.Object",
+  "allPublicMethods":true
+},
+{
+  "name":"javafx.event.Event",
+  "allPublicFields":true
+},
+{
+  "name":"javafx.event.EventHandler"
+},
+{
+  "name":"javafx.geometry.NodeOrientation"
+},
+{
+  "name":"javafx.geometry.Pos"
+},
+{
+  "name":"javafx.scene.AccessibleRole"
+},
+{
+  "name":"javafx.scene.CacheHint"
+},
+{
+  "name":"javafx.scene.DepthTest"
+},
+{
+  "name":"javafx.scene.Node",
+  "allPublicMethods":true
+},
+{
+  "name":"javafx.scene.Parent",
+  "allPublicMethods":true
+},
+{
+  "name":"javafx.scene.Scene",
+  "allPublicMethods":true,
+  "allPublicConstructors":true
+},
+{
+  "name":"javafx.scene.control.ContentDisplay"
+},
+{
+  "name":"javafx.scene.control.Control",
+  "allPublicMethods":true
+},
+{
+  "name":"javafx.scene.control.Label",
+  "allPublicMethods":true,
+  "allPublicConstructors":true
+},
+{
+  "name":"javafx.scene.control.Labeled",
+  "allPublicMethods":true
+},
+{
+  "name":"javafx.scene.control.OverrunStyle"
+},
+{
+  "name":"javafx.scene.effect.BlendMode"
+},
+{
+  "name":"javafx.scene.layout.Pane",
+  "allPublicMethods":true,
+  "allPublicConstructors":true
+},
+{
+  "name":"javafx.scene.layout.Priority"
+},
+{
+  "name":"javafx.scene.layout.Region",
+  "allPublicMethods":true,
+  "allPublicConstructors":true
+},
+{
+  "name":"javafx.scene.layout.VBox",
+  "allPublicMethods":true,
+  "allPublicConstructors":true
+},
+{
+  "name":"javafx.scene.text.TextAlignment"
+},
+{
+  "name":"javafx.stage.Modality"
+},
+{
+  "name":"javafx.stage.Stage",
+  "allPublicMethods":true,
+  "allPublicConstructors":true
+},
+{
+  "name":"javafx.stage.StageStyle"
+},
+{
+  "name":"javafx.stage.Window",
+  "allPublicMethods":true
+}
+]
